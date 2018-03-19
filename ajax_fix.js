@@ -1,4 +1,4 @@
-
+// 添加注释
 define(!!this.FormData, ["flow"], function($) {
     var str = 'Function BinaryToArray(binary)\r\n\
                  Dim oDic\r\n\
